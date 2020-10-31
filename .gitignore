@@ -1,0 +1,45 @@
+#for ide idea
+.idea/
+*.iml
+*.iws
+*.bat
+*.log
+
+#maven
+target/
+test-output/
+allure-results
+
+#eclipse
+.project
+.settings
+.classpath
+HELP.md
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+.attach_*
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+
+.mvn
+config
+.dbeaver
